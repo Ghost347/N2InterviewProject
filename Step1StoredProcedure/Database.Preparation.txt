@@ -1,0 +1,9 @@
+Obtained the Northwind database from:
+https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs
+The file that build and populate the database:
+
+instnwnd.sql
+
+Note that the database called "north" must be created first and this script must be executed in this database.
+
+After this, the stored procedure can be registered against this database.

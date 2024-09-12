@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteAPI", "RouletteAPI\RouletteAPI.csproj", "{BA8BD0EE-CB5F-48BB-9101-D2D3357CC90F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteTests", "RouletteTests\RouletteTests.csproj", "{FAFBC833-4877-4D3C-ADBB-E2D503592D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA8BD0EE-CB5F-48BB-9101-D2D3357CC90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8BD0EE-CB5F-48BB-9101-D2D3357CC90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8BD0EE-CB5F-48BB-9101-D2D3357CC90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8BD0EE-CB5F-48BB-9101-D2D3357CC90F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFBC833-4877-4D3C-ADBB-E2D503592D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFBC833-4877-4D3C-ADBB-E2D503592D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFBC833-4877-4D3C-ADBB-E2D503592D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFBC833-4877-4D3C-ADBB-E2D503592D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A8B8578-60F0-4D8F-ACA0-5B285A2451F7}
+	EndGlobalSection
+EndGlobal
